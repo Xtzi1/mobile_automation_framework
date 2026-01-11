@@ -48,3 +48,7 @@ PYTHONDONTWRITEBYTECODE=1 pytest src/tests/features -m "smoke"
 - `--platform` — платформа (по умолчанию `ios`);
 - `--device-profile` — профиль девайса (по умолчанию `local`);
 - `--mvp-log-level` — уровень логирования фреймворка (по умолчанию `INFO`).
+
+### CI
+
+Проект использует GitHub Actions для запуска `pytest` при каждом push и pull request.
