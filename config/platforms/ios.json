@@ -1,0 +1,5 @@
+{
+  "name": "ios",
+  "description": "Example iOS platform profile for MVP",
+  "default_device_profile": "local"
+}

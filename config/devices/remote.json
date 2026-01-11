@@ -1,0 +1,6 @@
+{
+  "name": "remote",
+  "description": "Remote device profile example (CI/cloud)",
+  "endpoint": "http://example-remote-endpoint:4723",
+  "capabilities_profile": "remote_default"
+}

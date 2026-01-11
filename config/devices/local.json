@@ -1,0 +1,6 @@
+{
+  "name": "local",
+  "description": "Local device profile example",
+  "endpoint": "http://localhost:4723",
+  "capabilities_profile": "local_default"
+}

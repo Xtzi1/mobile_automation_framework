@@ -1,0 +1,5 @@
+{
+  "name": "android",
+  "description": "Example Android platform profile for MVP",
+  "default_device_profile": "local"
+}

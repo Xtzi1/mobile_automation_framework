@@ -1,0 +1,24 @@
+{
+  "id": "root",
+  "type": "screen",
+  "text": "Example Screen",
+  "bounds": null,
+  "attributes": {},
+  "children": [
+    {
+      "id": "example_button",
+      "type": "button",
+      "text": "Tap me",
+      "bounds": {
+        "x": 100.0,
+        "y": 200.0,
+        "width": 50.0,
+        "height": 30.0
+      },
+      "attributes": {
+        "test_id": "example_button"
+      },
+      "children": []
+    }
+  ]
+}
